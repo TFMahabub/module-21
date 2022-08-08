@@ -30,3 +30,8 @@ function wordReverse(text){
 let sentense = "I am a good boy";
 result = wordReverse(sentense);
 console.log(result);
+
+
+
+
+
